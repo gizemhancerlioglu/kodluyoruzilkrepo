@@ -1,6 +1,7 @@
 # Kodluyoruz Ilk Repo
 
 Bu repo Kodluyoruz Eğitimi kapsamında açtığım ilk repodur. İçerisinde bir adet *README* dosyası, bir adet de *index.html* barındırıyor.
+Dil, beceri ve eğitim gibi bilgilerimin de içinde bulunduğu index.html'de **CV** niteliğinde bir sayfa hazırlamayı tercih ettim.
 
 ![createRepo](https://user-images.githubusercontent.com/39413875/120068073-81755380-c087-11eb-9c71-3d88ea515aa7.PNG)
 
